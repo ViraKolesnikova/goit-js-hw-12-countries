@@ -1,1 +1,2 @@
-import "./js/app";
+// import "./js/app";
+import './js/asyncApp';
